@@ -169,17 +169,17 @@ const Drawer = ({
             href="https://github.com/Dogtiti/AutoGPT-Next-Web"
             target="_blank"
           />
-          <DrawerItem
+          {/* <DrawerItem
             icon={
               <img
-                style={{ height: 24, width: 24 }}
+                style={{ height: 16, width: 16 }}
                 src="/connect-ai-logo.svg"
               ></img>
             }
             text="GPTsCopilot"
             href="https://gptscopilot.ai/"
             target="_blank"
-          />
+          /> */}
           <DrawerItem
             icon={<FaLanguage />}
             text="language"
